@@ -3,6 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/Ahmed3zzat/startRouting.git",
+
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
